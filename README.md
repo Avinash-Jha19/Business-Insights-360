@@ -168,32 +168,32 @@ In Home View, all the view buttons are available. Users will land on a specific 
 
 ## Report Overview
 
-![]()
+![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/GIF_Report_Overview.gif)
 
 ## Home Page
 
-![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/home-page-gif.gif)
+![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/GIF_Home.gif)
 
 ## Finance View
 
-![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/FinanceView-gif.gif)
+![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/GIF_Finance_View.gif)
 
 ## Sales View
 
-![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/SalesView-gif.gif)
+![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/GIF_Sales_View.gif)
 
 ## Marketing View
 
-![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/MarketingView-gif.gif)
+![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/GIF_Marketing_View.gif)
 
 ## Supply Chain View
 
-![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/SupplyChainView-gif.gif)
+![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/GIF_Supply_Chain_View.gif)
 
 ## Executive View
 
-![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/ExecutiveView-ezgif.gif)
+![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/GIF_Executive_View.gif)
 
 To view the full report 
-- ![Report](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/BI360.pbix)
-- ![PDF](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/BI360.pdf)
+- [Report](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/BI360.pbix)
+- [PDF](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/BI360.pdf)
