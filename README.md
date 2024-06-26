@@ -192,7 +192,7 @@ In Home View, all the view buttons are available. Users will land on a specific 
 
 ## Executive View
 
-![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/ExecutiveView-gif.gif)
+![](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/Resources/ExecutiveView-ezgif.gif)
 
 To view the full report 
 - ![Report](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/BI360.pbix)
