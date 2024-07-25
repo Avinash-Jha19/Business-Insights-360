@@ -8,7 +8,8 @@ AtliQ Hardware is growing rapidly in recent years and has decided to implement d
 
 I worked on this project by following the Codebasics Power BI Course. [Link to the course](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZTI2Nzk4M2ItOWMyNC00MmVjLTk4MjYtMjI3YmVjMjMxNzRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1520a3d763bc46ea945e) 
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZTI2Nzk4M2ItOWMyNC00MmVjLTk4MjYtMjI3YmVjMjMxNzRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1520a3d763bc46ea945e)
+[Video Presentation](https://github.com/Avinash-Jha19/Business-Insights-360/blob/main/BI360%20Project%20Presentation.mp4)
 
 ## Tech Stacks
 
